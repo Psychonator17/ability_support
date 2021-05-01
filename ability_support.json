@@ -1,0 +1,137 @@
+{
+  "biomesoplenty.common.entities.EntityBird": [
+    "fly|true"
+  ],
+  "biomesoplenty.common.entities.EntityGlob": [
+    "hostile"
+  ],
+  "biomesoplenty.common.entities.EntityJungleSpider": [
+    "climb",
+    "hostile"
+  ],
+  "biomesoplenty.common.entities.EntityPhantom": [
+    "float|-0.114,true",
+    "hostile"
+  ],
+  "biomesoplenty.common.entities.EntityPixie": [
+    "fly|true"
+  ],
+  "biomesoplenty.common.entities.EntityRosester": [
+    "float|-0.114,true"
+  ],
+  "biomesoplenty.common.entities.EntityWasp": [
+    "fly|true",
+    "hostile"
+  ],
+  "net.minecraft.entity.passive.EntityChicken": [
+    "float|-0.114,true"
+  ],
+  "net.minecraft.entity.monster.EntityBlaze": [
+    "fly|false",
+    "fireImmunity",
+    "waterAllergy",
+    "hostile"
+  ],
+  "net.minecraft.entity.monster.EntityCaveSpider": [
+    "climb",
+    "hostile",
+    "poisonResistance",
+	"potionEffect|19,140,0,false"
+  ],
+  "net.minecraft.entity.boss.EntityDragon": [
+    "flightFlap|false",
+    "hostile"
+  ],
+  "net.minecraft.entity.monster.EntityEnderman": [
+    "waterAllergy",
+    "hostile"
+  ],
+  "net.minecraft.entity.monster.EntitySpider": [
+    "climb",
+    "hostile"
+  ],
+  "net.minecraft.entity.monster.EntityGhast": [
+    "fly|false",
+    "fireImmunity",
+    "hostile"
+  ],
+  "net.minecraft.entity.monster.EntityGiantZombie": [
+    "hostile"
+  ],
+  "net.minecraft.entity.passive.EntityBat": [
+    "flightFlap"
+  ],
+  "net.minecraft.entity.passive.EntityParrot": [
+    "fly|true"
+  ],
+  "net.minecraft.entity.monster.EntitySilverfish": [
+    "hostile"
+  ],
+  "net.minecraft.entity.passive.EntityHorse": [
+    "step|1F"
+  ],
+  "net.minecraft.entity.monster.EntityIronGolem": [
+    "fallNegate",
+    "swim|true,1F,1F,false",
+	"sink"
+  ],
+  "net.minecraft.entity.monster.EntityMagmaCube": [
+    "fallNegate",
+    "fireImmunity",
+    "hostile",
+	"sink"
+  ],
+  "net.minecraft.entity.monster.EntityCreeper": [
+    "hostile"
+  ],
+  "net.minecraft.entity.passive.EntityOcelot": [
+    "fallNegate",
+	"fear|6,1.05D,net.minecraft.entity.monster.EntityCreeper"
+  ],
+  "net.minecraft.entity.monster.EntityPigZombie": [
+    "fireImmunity",
+    "hostile"
+  ],
+  "net.minecraft.entity.monster.EntitySkeleton": [
+    "hostile",
+    "sunburn"
+  ],
+  "net.minecraft.entity.monster.EntityWitherSkeleton": [
+    "fireImmunity",
+    "hostile",
+    "witherResistance",
+    "potionEffect|20,200,0,false"
+  ],
+  "net.minecraft.entity.monster.EntitySlime": [
+    "hostile",
+	"sink"
+  ],
+  "net.minecraft.entity.monster.EntitySnowman": [
+    "waterAllergy"
+  ],
+  "net.minecraft.entity.passive.EntitySquid": [
+    "swim|false,1.2F,0.4F,true"
+  ],
+  "net.minecraft.entity.monster.EntityGuardian": [
+    "swim|false,4F,1F,true",
+    "hostile"
+  ],
+  "net.minecraft.entity.monster.EntityElderGuardian": [
+    "swim|false,4F,1F,true",
+    "hostile"
+  ],
+  "net.minecraft.entity.boss.EntityWither": [
+    "fly|false",
+    "fireImmunity",
+    "hostile",
+    "witherResistance"
+  ],
+  "net.minecraft.entity.passive.EntityWolf": [
+    "fear|6,1.05D,net.minecraft.entity.monster.EntitySkeleton"
+  ],
+  "net.minecraft.entity.monster.EntityZombie": [
+    "hostile",
+	"fear|9,0.6D,net.minecraft.entity.passive.EntityVillager",
+    "sunburn"
+  ]
+}
